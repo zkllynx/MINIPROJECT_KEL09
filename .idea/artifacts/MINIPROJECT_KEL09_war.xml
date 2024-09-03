@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MINIPROJECT_KEL09:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>MINIPROJECT_KEL09</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="MINIPROJECT_KEL09-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="MINIPROJECT_KEL09:war exploded" />
+    </root>
+  </artifact>
+</component>
